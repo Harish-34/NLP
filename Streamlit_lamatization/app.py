@@ -7,7 +7,7 @@ from nltk.corpus import stopwords
 import re
 
 # Hardcoded English stop words list (safe for deployment)
-STOP_WORDS = set("""
+stop_words = set("""
 a about above after again against all am an and any are as at be because been before being below between both but by
 could did do does doing down during each few for from further had has have having he he'd he'll he's her here here's hers
 herself him himself his how how's i i'd i'll i'm i've if in into is it it's its itself let's me more most my myself nor of
