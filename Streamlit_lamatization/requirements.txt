@@ -1,0 +1,6 @@
+streamlit 
+wordcloud
+matplotlib.pyplot 
+nltk
+nltk.corpus 
+re
